@@ -14,6 +14,7 @@ Curated List of Open-Source Trading Bot Libraries and Tools in Go, JavaScript, a
 # Indicator
 - [https://github.com/cinar/indicator](https://github.com/cinar/indicator)
 - [https://github.com/joshuaulrich/TTR](https://github.com/joshuaulrich/TTR)
+- [https://github.com/tg12/Market-Pressure-Analyzer](https://github.com/tg12/Market-Pressure-Analyzer)
 
 # Data Science
 - [https://bookdown.org/kochiuyu/Technical-Analysis-with-R/](https://bookdown.org/kochiuyu/Technical-Analysis-with-R/)
@@ -41,5 +42,6 @@ Curated List of Open-Source Trading Bot Libraries and Tools in Go, JavaScript, a
 # golang
 
 # python
+- [https://github.com/tg12/FAIG](https://github.com/tg12/FAIG)
 
 # nodejs
